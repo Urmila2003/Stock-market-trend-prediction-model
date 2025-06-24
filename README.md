@@ -6,6 +6,7 @@ The stock market is known for being volatile and hard to predict. Many researche
 
 # Stock Price Prediction using Machine Learning
 Using machine learning, stock price prediction involves forecasting the future value of stocks traded on stock exchanges to generate profits. Since there are numerous variables involved in predicting stock prices, achieving high accuracy is challenging, and that's where machine learning comes in handy.
+![1750781643588785206214082860967](https://github.com/user-attachments/assets/bd2fcfe8-4798-4299-8213-ea5e03d7c558)
 
 # Extracting the Stock Prices Dataset
 We can use Pandas to load the downloaded CSV file into a DataFrame. Since each row corresponds to a specific date, we can index the DataFrame by the date column. The data we have collected spans from 22nd Feb 2022 to 22nd Feb 2023, which includes the unpredictable changes and after effects caused by the COVID-19 pandemic. This presents a challenge for our model to accurately predict stock prices during a period of significant market volatility. Plotting the High and Low points of the market, we see the below graph.
